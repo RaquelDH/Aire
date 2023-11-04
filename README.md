@@ -8,8 +8,26 @@ El objetivo de este proyecto es analizar los datos de calidad del aire en Estado
 
 ## Conjunto de Datos 📊
 
-Los datos utilizados en este proyecto provienen de una fuentes confiable https://data.gov/ es el hogar de los datos abiertos del gobierno de EE.UU y contienen información detallada sobre la calidad del aire en diferentes ciudades de Estados Unidos a lo largo de los años.
+Los datos utilizados en este proyecto provienen de una fuente confiable https://data.gov/, que es el hogar de los datos abiertos del gobierno de los EE.UU y contienen información detallada sobre la calidad del aire en diferentes ciudades de Estados Unidos a lo largo de los años.
 
 ## Instalación 🔧
 
 Para ejecutar este proyecto, se necesita instalar Python y algunas bibliotecas de data science como Pandas, Numpy y Matplotlib. Se pueden instalar estas bibliotecas usando pip:
+
+
+pip install pandas numpy matplotlib
+
+
+## Uso 🖥️
+
+Para ejecutar el análisis, simplemente se ejecuta el script de Python `análisis.py`:
+
+
+python análisis.py
+
+
+Esto generará una serie de gráficos y estadísticas sobre la calidad del aire en Estados Unidos.
+
+## Contribuciones 🤝
+
+Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna sugerencia, no dudes en abrir un problema o hacer una solicitud de extracción.
