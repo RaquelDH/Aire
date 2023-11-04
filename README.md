@@ -1,6 +1,6 @@
 # Análisis de la calidad del aire en la ciudad de Nueva York 🌎💨
 
-Este proyecto de data science se centra en el análisis de la calidad del aire en la ciudad de Nueva York. Utiliza datos históricos para identificar tendencias y patrones en la calidad del aire a lo largo del tiempo.
+Este proyecto de data science se centra en el análisis de la calidad del aire en la ciudad de Nueva York. Utilicé datos históricos para identificar tendencias y patrones en la calidad del aire a lo largo del tiempo.
 
 ## Descripción del Proyecto 📋
 
