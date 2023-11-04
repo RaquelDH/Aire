@@ -4,7 +4,7 @@ Este proyecto de data science se centra en el análisis de la calidad del aire e
 
 ## Descripción del Proyecto 📋
 
-El objetivo de este proyecto es analizar los datos de calidad del aire en Nueva York y entender cómo ha cambiado a lo largo del tiempo. Este análisis puede ayudar a identificar áreas con mala calidad del aire, entender las causas de la mala calidad del aire y proponer soluciones para mejorarla.
+El objetivo de este proyecto es analizar los datos de calidad del aire en Nueva York y entender cómo ha cambiado a lo largo del tiempo. Este análisis puede ayudar a identificar áreas con mala calidad del aire, entender las causas de la mala calidad del aire y evaluar el impacto en la salud de la población.
 
 ## Conjunto de Datos 📊
 
