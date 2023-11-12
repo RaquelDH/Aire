@@ -20,10 +20,7 @@ pip install pandas numpy matplotlib
 
 ## Uso 🖥️
 
-Para ejecutar el análisis, simplemente se ejecuta el script de Python `análisis.py`:
-
-
-python análisis.py
+Para ejecutar el análisis, simplemente se ejecuta el script de Python:
 
 
 Esto generará una serie de gráficos y estadísticas sobre la calidad del aire en Estados Unidos.
